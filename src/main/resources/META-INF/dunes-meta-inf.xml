@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>172.16.202.131:8281</comment>
+<entry key="vso-build-nb">5481809</entry>
+<entry key="pkg-description"></entry>
+<entry key="pkg-name">com.vmware.pscoe.demo</entry>
+<entry key="used-plugins"></entry>
+<entry key="pkg-owner">O=VMware,OU=Unknown,CN=vRO localhost.localdom f2785c77-6281-4ae4-a92e-28406a507be2</entry>
+<entry key="vso-version">7.3.0.5481809</entry>
+<entry key="pkg-id">402881015d796e39015d9847b53a1b60</entry>
+</properties>
